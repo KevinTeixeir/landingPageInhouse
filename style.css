@@ -173,7 +173,7 @@ body{
     /*main*/
 
     .home{
-        padding: 100px 2%;
+        padding: 160px 2%;
         flex-direction: column;
         text-align: center;
         overflow: hidden;
@@ -191,6 +191,6 @@ body{
         font-size: 15px;
     }
     .home-img{
-        width: 125%;
+        width: 90%;
     }
 }
